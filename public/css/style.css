@@ -1,0 +1,41 @@
+.badge {
+    background-color: #1F67A6;
+    color:white;
+}
+
+.badge-right {
+    background-color: #1F67A6;
+    color:white;
+    float: right;
+}
+.badge-right-danger {
+    background-color: #f80031;
+    color:white;
+    float: right;
+}
+
+.badge-right-warning {
+    background-color: #ff3709;
+    color:white;
+    float: right;
+}
+
+.card {
+    padding: 10px; 
+    margin-bottom:25px; 
+    margin-top:25px;
+}
+
+.row {
+    padding:10px;
+}
+
+label {
+    margin-top:5px;
+}
+
+input {
+    width: 200px;
+    margin-top:5px;
+}
+
